@@ -1,0 +1,7 @@
+../qwprogs.dat
+server/ssdefs.qc
+server/customdefs.qc
+server/weapons.qc
+server/player.qc
+server/ai.qc
+server/main.qc
